@@ -1,0 +1,6 @@
+{
+  "version": "1.0.260711.28",
+  "notes": "- Add automated release pipeline (build \u2192 sign \u2192 GitHub release + manifest)",
+  "url": "https://github.com/ArneNostitz/topbar-scroller-releases/releases/download/v1.0.260711.28/MacMenu-Scroller.zip",
+  "sha256": "e4ead1fc070342cee14b061f3ad3f49ed6a49a1b78c44bdc01b26e73ac2ee2b9"
+}
