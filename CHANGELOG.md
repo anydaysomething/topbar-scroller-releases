@@ -1,5 +1,9 @@
-<!-- last-commit-count: 30 -->
+<!-- last-commit-count: 32 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260711.32 — 2026-07-11
+
+- Add "Report a bug…" menu item; move releases repo to anydaysomething
 
 ## 1.0.260711.30 — 2026-07-11
 
