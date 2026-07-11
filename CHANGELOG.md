@@ -3,6 +3,10 @@
 
 ## 1.0.260711.30 — 2026-07-11
 
+- (no code changes since the last release)
+
+## 1.0.260711.30 — 2026-07-11
+
 - Strip context menu: drop black-background toggle, add "Check for updates…"
 
 ## 1.0.260711.28 — 2026-07-11
