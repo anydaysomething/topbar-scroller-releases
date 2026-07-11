@@ -1,5 +1,10 @@
-<!-- last-commit-count: 32 -->
+<!-- last-commit-count: 34 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260712.34 — 2026-07-12
+
+- Pinned-left tray, GitHub bug report, About panel, richer logs
+- Add app icon; generate AppIcon.icns at build time
 
 ## 1.0.260711.32 — 2026-07-11
 

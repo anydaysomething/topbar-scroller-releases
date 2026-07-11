@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260711.32",
-  "notes": "- (no code changes since the last release)",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260711.32/MacMenu-Scroller.zip",
-  "sha256": "25cc5c61423e07726571641e4a17535ab444efa3b8da66304c1e0d390ab33144"
+  "version": "1.0.260712.34",
+  "notes": "- Pinned-left tray, GitHub bug report, About panel, richer logs\n- Add app icon; generate AppIcon.icns at build time",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260712.34/MacMenu-Scroller.zip",
+  "sha256": "8ea4816739e0379c28e067fbc8cdbeafbcef0e5eab42a6e333f0a0e499c47c44"
 }
