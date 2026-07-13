@@ -1,5 +1,9 @@
-<!-- last-commit-count: 34 -->
+<!-- last-commit-count: 35 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260713.35 — 2026-07-13
+
+- Arrangement window; pinned tray on the right; manage Apple-adjacent items
 
 ## 1.0.260712.34 — 2026-07-12
 
