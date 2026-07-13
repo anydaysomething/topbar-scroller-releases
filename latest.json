@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260713.38",
-  "notes": "- Take Control Center out of management; fix unpin",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.38/MacMenu-Scroller.zip",
-  "sha256": "f4bd63d10e860911d531d7cbc1d3a9808ee93954b08da6513358b1993068de50"
+  "version": "1.0.260713.39",
+  "notes": "- Anchor the boundary to the real Control Center by AXIdentifier",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.39/MacMenu-Scroller.zip",
+  "sha256": "2731a5342704727b061c3cab5a03cdc879f1fb3fae440a1662ae792b2231fd34"
 }

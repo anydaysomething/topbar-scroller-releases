@@ -1,5 +1,9 @@
-<!-- last-commit-count: 38 -->
+<!-- last-commit-count: 39 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260713.39 — 2026-07-13
+
+- Anchor the boundary to the real Control Center by AXIdentifier
 
 ## 1.0.260713.38 — 2026-07-13
 
