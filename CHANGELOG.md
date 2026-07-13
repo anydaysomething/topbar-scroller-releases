@@ -1,5 +1,9 @@
-<!-- last-commit-count: 39 -->
+<!-- last-commit-count: 40 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260713.40 — 2026-07-13
+
+- Label Control-Center-hosted widgets clearly; add --dumpapps probe
 
 ## 1.0.260713.39 — 2026-07-13
 

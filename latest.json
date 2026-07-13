@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260713.39",
-  "notes": "- Anchor the boundary to the real Control Center by AXIdentifier",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.39/MacMenu-Scroller.zip",
-  "sha256": "2731a5342704727b061c3cab5a03cdc879f1fb3fae440a1662ae792b2231fd34"
+  "version": "1.0.260713.40",
+  "notes": "- Label Control-Center-hosted widgets clearly; add --dumpapps probe",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.40/MacMenu-Scroller.zip",
+  "sha256": "0f320bd36939e5e07953b6eea5715cad544341941597658cc1d206b4af4b0a27"
 }
