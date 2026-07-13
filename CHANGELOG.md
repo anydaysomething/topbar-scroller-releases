@@ -1,5 +1,9 @@
-<!-- last-commit-count: 37 -->
+<!-- last-commit-count: 38 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260713.38 — 2026-07-13
+
+- Take Control Center out of management; fix unpin
 
 ## 1.0.260713.37 — 2026-07-13
 

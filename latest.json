@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260713.37",
-  "notes": "- Manage Control Center items; drop phantom items; clearer Arrange UI",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.37/MacMenu-Scroller.zip",
-  "sha256": "7832df80a52c4fccbf2e873cca114beecbf6e7e36991963a57221501164bb76a"
+  "version": "1.0.260713.38",
+  "notes": "- Take Control Center out of management; fix unpin",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.38/MacMenu-Scroller.zip",
+  "sha256": "f4bd63d10e860911d531d7cbc1d3a9808ee93954b08da6513358b1993068de50"
 }
