@@ -1,5 +1,9 @@
-<!-- last-commit-count: 36 -->
+<!-- last-commit-count: 37 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260713.37 — 2026-07-13
+
+- Manage Control Center items; drop phantom items; clearer Arrange UI
 
 ## 1.0.260713.36 — 2026-07-13
 

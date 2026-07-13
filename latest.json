@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260713.36",
-  "notes": "- Slim right-click menu; tabbed settings (General | Arrange)",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.36/MacMenu-Scroller.zip",
-  "sha256": "8bdc3ab9386cccc92a55b7f1c40aeccfc31a1807de1819e2d9f6c9225f991753"
+  "version": "1.0.260713.37",
+  "notes": "- Manage Control Center items; drop phantom items; clearer Arrange UI",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.37/MacMenu-Scroller.zip",
+  "sha256": "7832df80a52c4fccbf2e873cca114beecbf6e7e36991963a57221501164bb76a"
 }
