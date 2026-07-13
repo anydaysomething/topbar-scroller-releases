@@ -1,5 +1,9 @@
-<!-- last-commit-count: 35 -->
+<!-- last-commit-count: 36 -->
 # MacMenu Scroller Changelog
+
+## 1.0.260713.36 — 2026-07-13
+
+- Slim right-click menu; tabbed settings (General | Arrange)
 
 ## 1.0.260713.35 — 2026-07-13
 

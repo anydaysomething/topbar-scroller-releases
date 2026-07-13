@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260713.35",
-  "notes": "- Arrangement window; pinned tray on the right; manage Apple-adjacent items",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.35/MacMenu-Scroller.zip",
-  "sha256": "ca12604de06cd24b3b5553b33892507afb1d47feade8742fa7c0d5f1673ac45f"
+  "version": "1.0.260713.36",
+  "notes": "- Slim right-click menu; tabbed settings (General | Arrange)",
+  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260713.36/MacMenu-Scroller.zip",
+  "sha256": "8bdc3ab9386cccc92a55b7f1c40aeccfc31a1807de1819e2d9f6c9225f991753"
 }
