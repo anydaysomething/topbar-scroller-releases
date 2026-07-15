@@ -1,5 +1,13 @@
-<!-- last-commit-count: 40 -->
-# MacMenu Scroller Changelog
+<!-- last-commit-count: 45 -->
+# MacMenuScroller Changelog
+
+## 1.0.260715.45 — 2026-07-15
+
+- Rename everything to MacMenuScroller; drop Claude Code mention
+- build.sh: git-derived version by default + real copyright in Info.plist
+- Add notarize.sh: single command to build + notarize + fetch signed app
+- release.sh: use ssh host alias 'notary' for the notarization server
+- Animate tongue unroll; fix stray burp creature; rename to MacMenuScroller; notarize in release.sh
 
 ## 1.0.260715.40 — 2026-07-15
 

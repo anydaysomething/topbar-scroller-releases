@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260715.40",
-  "notes": "- (no code changes since the last release)",
-  "url": "https://github.com/anydaysomething/topbar-scroller-releases/releases/download/v1.0.260715.40/MacMenu-Scroller.zip",
-  "sha256": "b8d0ccd1d2a8f1933b34c9318f224b58b81c75f6604c23d5b1a678955cd21250"
+  "version": "1.0.260715.45",
+  "notes": "- Rename everything to MacMenuScroller; drop Claude Code mention\n- build.sh: git-derived version by default + real copyright in Info.plist\n- Add notarize.sh: single command to build + notarize + fetch signed app\n- release.sh: use ssh host alias 'notary' for the notarization server\n- Animate tongue unroll; fix stray burp creature; rename to MacMenuScroller; notarize in release.sh",
+  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.45/MacMenuScroller.zip",
+  "sha256": "96e313eda70db5511f53ebcb9774413dfe36112cb93e020fb61d9180c17ea6c2"
 }
