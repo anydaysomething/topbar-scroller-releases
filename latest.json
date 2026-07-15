@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260715.45",
-  "notes": "- Rename everything to MacMenuScroller; drop Claude Code mention\n- build.sh: git-derived version by default + real copyright in Info.plist\n- Add notarize.sh: single command to build + notarize + fetch signed app\n- release.sh: use ssh host alias 'notary' for the notarization server\n- Animate tongue unroll; fix stray burp creature; rename to MacMenuScroller; notarize in release.sh",
-  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.45/MacMenuScroller.zip",
-  "sha256": "96e313eda70db5511f53ebcb9774413dfe36112cb93e020fb61d9180c17ea6c2"
+  "version": "1.0.260715.47",
+  "notes": "- Onboarding: \u2318-Tab visibility, reliable relaunch, Screen-Recording listing\n- Add live permission-onboarding window with direct Settings deep links",
+  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.47/MacMenuScroller.zip",
+  "sha256": "f8b01c8486e3edcd68363b72a2792196424822efbbd9ad8805d87136ce558f6c"
 }

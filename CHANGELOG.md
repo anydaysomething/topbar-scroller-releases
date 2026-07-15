@@ -1,5 +1,10 @@
-<!-- last-commit-count: 45 -->
+<!-- last-commit-count: 47 -->
 # MacMenuScroller Changelog
+
+## 1.0.260715.47 — 2026-07-15
+
+- Onboarding: ⌘-Tab visibility, reliable relaunch, Screen-Recording listing
+- Add live permission-onboarding window with direct Settings deep links
 
 ## 1.0.260715.45 — 2026-07-15
 
