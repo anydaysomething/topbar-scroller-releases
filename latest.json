@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260715.49",
-  "notes": "- Make the burp tongue actually unroll like a party-blower",
-  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.49/MacMenuScroller.zip",
-  "sha256": "15e340d806b9b1b079b6a7cc468269158f2a6037dd9d18a80b4a58c87ea6ac5e"
+  "version": "1.0.260715.51",
+  "notes": "- Notch creature: rolling eyes + dizzy spiral-eyes on rapid scrubbing\n- Slow the tongue unroll and give the burp its own window so it's visible",
+  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.51/MacMenuScroller.zip",
+  "sha256": "1922a0824f98b37843516f7dce9a570651fc483c75560c8405f9b10b680c6714"
 }

@@ -1,5 +1,10 @@
-<!-- last-commit-count: 49 -->
+<!-- last-commit-count: 51 -->
 # MacMenuScroller Changelog
+
+## 1.0.260715.51 — 2026-07-15
+
+- Notch creature: rolling eyes + dizzy spiral-eyes on rapid scrubbing
+- Slow the tongue unroll and give the burp its own window so it's visible
 
 ## 1.0.260715.49 — 2026-07-15
 
