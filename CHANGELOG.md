@@ -1,5 +1,9 @@
-<!-- last-commit-count: 47 -->
+<!-- last-commit-count: 48 -->
 # MacMenuScroller Changelog
+
+## 1.0.260715.48 — 2026-07-15
+
+- Live bar background, drop our own icon, fix generic-title mislabel
 
 ## 1.0.260715.47 — 2026-07-15
 
