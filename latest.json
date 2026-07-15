@@ -1,6 +1,6 @@
 {
-  "version": "1.0.260715.48",
-  "notes": "- Live bar background, drop our own icon, fix generic-title mislabel",
-  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.48/MacMenuScroller.zip",
-  "sha256": "e3bf0d3f6cae837fe0df8f424282e62141fb24073a2b57f3129b22f49550da40"
+  "version": "1.0.260715.49",
+  "notes": "- Make the burp tongue actually unroll like a party-blower",
+  "url": "https://github.com/anydaysomething/macmenuscroller-releases/releases/download/v1.0.260715.49/MacMenuScroller.zip",
+  "sha256": "15e340d806b9b1b079b6a7cc468269158f2a6037dd9d18a80b4a58c87ea6ac5e"
 }

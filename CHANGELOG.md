@@ -1,5 +1,9 @@
-<!-- last-commit-count: 48 -->
+<!-- last-commit-count: 49 -->
 # MacMenuScroller Changelog
+
+## 1.0.260715.49 — 2026-07-15
+
+- Make the burp tongue actually unroll like a party-blower
 
 ## 1.0.260715.48 — 2026-07-15
 
